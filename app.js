@@ -11,7 +11,7 @@ function longestWord(str){
       console.log(longestWord)
   }
 
-return longestWord
+return longestWord;
 }
 
 
